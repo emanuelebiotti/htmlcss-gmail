@@ -1,0 +1,92 @@
+
+body {
+
+background-image: url("Legno.png");
+}
+
+
+#container {
+
+  width:700px;
+  margin:auto;
+
+}
+
+#mailPic {
+
+  width:100px;
+  height:100px;
+}
+
+.whiteText {
+
+  color: white;
+  font-size: 30px;
+
+}
+
+#unread {
+
+  margin-top: auto;
+  height:36px;
+  padding-top: 7px;
+
+}
+
+#roundNumber {
+
+  height:30px;
+  width:30px;
+  background-color: orange;
+  border-radius: 50%;
+}
+
+.greyObject {
+
+  width:700px;
+  height:25px;
+  background-color: rgb(175, 180, 188);
+  border: 1px solid black;
+  padding-bottom: 5px;
+
+}
+
+.whiteObject {
+
+  width:700px;
+  height:25px;
+  background-color: white;
+  border: 1px solid black;
+  padding-bottom: 5px;
+
+}
+
+#footer {
+
+  text-align: center;
+  margin-top: auto;
+
+}
+
+#powered {
+
+  font-size:20px;
+  font-style: italic;
+}
+
+.objectText {
+
+  font-size: 20px;
+  font-weight: bold;
+
+}
+
+.blurredText {
+
+  color: rgba(0, 0, 0, 0.4);
+}
+
+.lines {
+
+  margin-top:auto;
+}
